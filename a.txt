@@ -1,2 +1,4 @@
 dd
 python2
+python3.6.3
+django
